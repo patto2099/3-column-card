@@ -103,10 +103,9 @@ button > a {
     flex-direction: column;
     
     justify-content: center;
-    /* align-items: center; */
-
-     /* min-height: 100vh;
-    width: 100vw;  */
+    
+    min-height: 1100px;
+    width: 100vw; 
     }
 
 img {
@@ -124,16 +123,6 @@ p {
      margin: 30px 15px;
  }
 
- .sedan-col {
-     height: 50vh;
- }
-
- .suv-col {
-      height: 50vh;
- }
-
- .luxury-col {
-      height: 50vh;
- }
+ 
 
 }
